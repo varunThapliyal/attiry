@@ -30,7 +30,7 @@ class SignIn extends React.Component{
            })
        }
     catch(err){
-
+           console.log('Error in signing in');
        }
 
              
