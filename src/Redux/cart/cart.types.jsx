@@ -1,0 +1,10 @@
+
+
+const ToggleCartAction={
+    TOGGLE_CART_ICON:'TOGGLE_CART_ICON',
+    ADD_ITEMS:'ADD_ITEMS',
+    CLEAR_ITEM_FROM_CART:'CLEAR_ITEM_FROM_CART',
+    DECREASE_ITEM_FROM_CART:'DECREASE_ITEM_FROM_CART'
+}
+
+export default ToggleCartAction;
